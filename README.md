@@ -30,7 +30,11 @@ Project will run at http://localhost:5173/ (Vite default)
 
 Built With :-
 React.js — Frontend UI Library
+
 React Router DOM — Routing
+
 @headlessui/react — Accessible Tabs
+
 CSS Modules — Modular styling
+
 Vite — Lightning-fast development bundler
