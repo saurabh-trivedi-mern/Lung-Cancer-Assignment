@@ -1,0 +1,219 @@
+.researchContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: #b1dbf8;
+  padding: 2rem;
+}
+
+.researchCard {
+  background-color: #ffffff;
+  border-left: 4px solid #00b4d8;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  padding: 1.5rem;
+  flex: 1 1 100%;
+  max-width: 600px;
+  width: 100%;
+  transition: transform 0.3s ease;
+}
+
+.researchCard:hover {
+  transform: translateY(-4px);
+}
+
+.researchTitle {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #0077b6;
+  margin-bottom: 0.5rem;
+}
+
+.researchMeta {
+  font-size: 0.95rem;
+  color: #444;
+  margin-bottom: 0.3rem;
+}
+
+.researchAbstract {
+  font-size: 0.95rem;
+  color: #333;
+  margin-bottom: 0.75rem;
+  line-height: 1.5;
+}
+
+.toggleButton {
+  background-color: transparent;
+  color: #00b4d8;
+  border: none;
+  font-weight: 500;
+  font-size: 0.9rem;
+  cursor: pointer;
+  margin-left: 0.5rem;
+}
+
+.toggleButton:hover {
+  text-decoration: underline;
+}
+
+.similarButton {
+  background-color: transparent;
+  color: #00b4d8;
+  border: 1px solid #00b4d8;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+  margin-bottom: 0.5rem;
+}
+
+.similarButton:hover {
+  background-color: #00b4d8;
+  color: #fff;
+}
+
+.similarList {
+  margin-top: 1rem;
+  padding-left: 1rem;
+  font-size: 0.9rem;
+  color: #333;
+  border-left: 3px solid #ff9f1c;
+  background-color: #fdfdfd;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+}
+
+.filters,
+.sortBar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  justify-content: center;
+  padding: 0 1rem;
+  background-color: #b1dbf8;
+}
+
+.filters label,
+.sortBar label {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 5px;
+  font-weight: 600;
+  color: #0077b6;
+  font-size: 0.95rem;
+}
+
+.filters select,
+.filters input,
+.sortBar select {
+  margin-top: 0.4rem;
+  padding: 0.4rem 0.6rem;
+  border: 1px solid #bcdff1;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  background-color: #ffffff;
+  color: #0077b6;
+}
+
+.noMatch {
+  color: #777;
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .researchContainer {
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .researchCard {
+    padding: 1rem;
+    max-width: 100%;
+    border-left: 3px solid #00b4d8;
+  }
+
+  .researchTitle {
+    font-size: 1.15rem;
+  }
+
+  .researchMeta {
+    font-size: 0.9rem;
+  }
+
+  .researchAbstract {
+    font-size: 0.9rem;
+  }
+
+  .toggleButton,
+  .similarButton {
+    font-size: 0.85rem;
+    padding: 0.4rem 0.75rem;
+  }
+
+  .similarList {
+    font-size: 0.85rem;
+    padding: 0.5rem;
+  }
+
+  .filters,
+  .sortBar {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0;
+  }
+
+  .filters label,
+  .sortBar label {
+    width: 100%;
+  }
+
+  .filters select,
+  .filters input,
+  .sortBar select {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .researchCard {
+    padding: 0.75rem;
+    border-left: 2px solid #00b4d8;
+  }
+
+  .toggleButton,
+  .similarButton {
+    width: 100%;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+
+  .researchTitle {
+    font-size: 1.05rem;
+  }
+
+  .researchMeta,
+  .researchAbstract {
+    font-size: 0.85rem;
+  }
+
+  .similarList {
+    font-size: 0.8rem;
+  }
+
+  .filters label,
+  .sortBar label {
+    font-size: 0.9rem;
+  }
+
+  .filters select,
+  .filters input,
+  .sortBar select {
+    font-size: 0.85rem;
+  }
+}

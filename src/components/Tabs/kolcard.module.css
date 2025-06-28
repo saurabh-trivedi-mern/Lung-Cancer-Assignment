@@ -1,0 +1,180 @@
+.kolContainer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+  align-items: flex-start;
+  justify-content: center;
+  background-color: #b1dbf8;
+  padding: 2rem;
+}
+
+.kolCard {
+  background-color: #ffffff;
+  border-radius: 10px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+  padding: 1.5rem;
+  flex: 1 1 100%;
+  max-width: 600px;
+  width: 100%;
+  transition: transform 0.3s ease;
+  border-left: 4px solid #00b4d8; 
+}
+
+.kolCard:hover {
+  transform: translateY(-4px);
+}
+
+.kolName {
+  font-size: 1.3rem;
+  font-weight: bold;
+  color: #0077b6;
+  margin-bottom: 0.5rem;
+}
+
+.kolMeta {
+  font-size: 0.95rem;
+  color: #333;
+  margin-bottom: 0.3rem;
+}
+
+.toggleButton {
+  margin-top: 1rem;
+  background-color: transparent;
+  color: #00b4d8;
+  border: 1px solid #00b4d8;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background-color 0.2s ease;
+}
+
+.toggleButton:hover {
+  background-color: #00b4d8;
+  color: white;
+}
+
+.expandButton {
+  margin-top: 1rem;
+  background-color: #ddecf6;
+  padding: 1rem;
+  border-radius: 8px;
+  border: 1px dashed #b5dffd;
+}
+
+.authorsList {
+  margin-bottom: 1rem;
+}
+
+.tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.tag {
+  background-color: #e0f7ff;
+  color: #0077b6;
+  font-size: 0.8rem;
+  padding: 4px 8px;
+  border-radius: 20px;
+}
+
+.payments {
+  margin-bottom: 1rem;
+}
+
+.paymentTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 0.5rem;
+}
+
+.paymentTable th,
+.paymentTable td {
+  border: 1px solid #d3eaf7;
+  padding: 8px;
+  font-size: 0.85rem;
+  text-align: left;
+}
+
+.paymentTable th {
+  background-color: #e0f2ff;
+  font-weight: 600;
+  color: #0077b6;
+}
+
+.publishedPapers ul {
+  padding-left: 1rem;
+  list-style: disc;
+}
+
+.publishedPapers li {
+  margin-bottom: 0.75rem;
+  font-size: 0.9rem;
+}
+
+
+@media (max-width: 768px) {
+  .kolContainer {
+    padding: 1rem;
+    gap: 1rem;
+  }
+
+  .kolCard {
+    padding: 1rem;
+    max-width: 100%;
+    border-left: 3px solid #00b4d8;
+  }
+
+  .kolName {
+    font-size: 1.1rem;
+  }
+
+  .kolMeta {
+    font-size: 0.9rem;
+  }
+
+  .toggleButton,
+  .expandButton {
+    font-size: 0.85rem;
+    padding: 0.5rem 0.75rem;
+  }
+
+  .tag {
+    font-size: 0.75rem;
+    padding: 3px 6px;
+  }
+
+  .paymentTable th,
+  .paymentTable td {
+    font-size: 0.8rem;
+    padding: 6px;
+  }
+
+  .publishedPapers li {
+    font-size: 0.85rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .tag {
+    font-size: 0.7rem;
+    padding: 2px 5px;
+  }
+
+  .toggleButton,
+  .expandButton {
+    width: 100%;
+    text-align: center;
+  }
+
+  .paymentTable {
+    font-size: 0.75rem;
+  }
+
+  .kolCard {
+    padding: 0.75rem;
+  }
+}

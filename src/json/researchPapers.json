@@ -1,0 +1,725 @@
+
+{
+    "search_term": "Lung Cancer",
+    "results": {
+        "research_papers": [
+            {
+                "title": "Advances in Immunotherapy for Lung Cancer",
+                "authors": [
+                    "Dr. Jane Smith",
+                    "Dr. Alan Cheng"
+                ],
+                "abstract": "Discusses emerging immunotherapeutic agents and their outcomes in NSCLC. Discusses emerging immunotherapeutic agents and their outcomes in NSCLC. Discusses emerging immunotherapeutic agents and their outcomes in NSCLC. Discusses emerging immunotherapeutic agents and their outcomes in NSCLC. Discusses emerging immunotherapeutic agents and their outcomes in NSCLC.",
+                "citation_count": 243,
+                "published_date": "2022-10-12",
+                "journal": "Journal of Clinical Oncology",
+                "similar_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "title": "EGFR Mutations in Lung Adenocarcinoma",
+                "authors": [
+                    "Dr. Emily Wong"
+                ],
+                "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                "citation_count": 312,
+                "published_date": "2021-05-20",
+                "journal": "The Lancet Oncology",
+                "similar_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "title": "Real-World Data on Lung Cancer Survival",
+                "authors": [
+                    "Dr. Mike Chen",
+                    "Dr. Li Zhou"
+                ],
+                "abstract": "Evaluates survival rates using real-world datasets across Europe. Evaluates survival rates using real-world datasets across Europe. Evaluates survival rates using real-world datasets across Europe. Evaluates survival rates using real-world datasets across Europe. Evaluates survival rates using real-world datasets across Europe.",
+                "citation_count": 128,
+                "published_date": "2023-01-08",
+                "journal": "BMC Cancer",
+                "similar_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "title": "Combination Therapy in NSCLC: Chemo + IO",
+                "authors": [
+                    "Dr. Sophie Martin"
+                ],
+                "abstract": "Reports improved PFS using chemotherapy plus immune checkpoint inhibitors. Reports improved PFS using chemotherapy plus immune checkpoint inhibitors. Reports improved PFS using chemotherapy plus immune checkpoint inhibitors.",
+                "citation_count": 198,
+                "published_date": "2020-11-10",
+                "journal": "Nature Medicine",
+                "similar_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "title": "Biomarker-Guided Therapy in Lung Cancer",
+                "authors": [
+                    "Dr. Raj Patel",
+                    "Dr. Mira Das"
+                ],
+                "abstract": "Highlights the importance of PD-L1 and TMB in therapy selection. Highlights the importance of PD-L1 and TMB in therapy selection. Highlights the importance of PD-L1 and TMB in therapy selection. Highlights the importance of PD-L1 and TMB in therapy selection.",
+                "citation_count": 265,
+                "published_date": "2022-06-30",
+                "journal": "JAMA Oncology",
+                "similar_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            }
+        ],
+        "leaders": [
+            {
+                "name": "Dr. Alan Cheng",
+                "citation_count": 1120,
+                "affiliation": "Stanford University",
+                "subspecialty": "Lung Cancer",
+                "papers_count": 42,
+                "related_authors": [
+                    "Dr. Raj Patel",
+                    "Dr. Mira Das",
+                    "Dr. Jane Smith",
+                    "Dr. Li Zhou",
+                    "Dr. Emily Wong"
+                ],
+                "payments": {
+                    "Amazon": "$12345",
+                    "Facebook": "$12345",
+                    "Google": "$12345",
+                    "Oracle": "$12345",
+                    "Tesla": "$123424"
+                },
+                "published_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Alan Cheng"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Alan Cheng"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Alan Cheng"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Alan Cheng"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Alan Cheng"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "name": "Dr. Emily Wong",
+                "citation_count": 980,
+                "affiliation": "University of Toronto",
+                "subspecialty": "NSCLC",
+                "papers_count": 37,
+                "related_authors": [
+                    "Dr. Raj Patel",
+                    "Dr. Mira Das",
+                    "Dr. Jane Smith",
+                    "Dr. Li Zhou",
+                    "Dr. Mike Chen"
+                ],
+                "payments": {
+                    "Amazon": "$12345",
+                    "Facebook": "$12345",
+                    "Google": "$12345",
+                    "Oracle": "$12345",
+                    "Tesla": "$123424"
+                },
+                "published_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Wong"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "name": "Dr. Mike Chen",
+                "citation_count": 860,
+                "affiliation": "Karolinska Institute",
+                "subspecialty": "Thoracic Oncology",
+                "papers_count": 29,
+                "related_authors": [
+                    "Dr. Raj Patel",
+                    "Dr. Mira Das",
+                    "Dr. Jane Smith",
+                    "Dr. Li Zhou",
+                    "Dr. Emily Wong"
+                ],
+                "payments": {
+                    "Amazon": "$12345",
+                    "Facebook": "$12345",
+                    "Google": "$12345",
+                    "Oracle": "$12345",
+                    "Tesla": "$123424"
+                },
+                "published_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Mike Chen"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Mike Chen"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Mike Chen"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Mike Chen"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Mike Chen"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "name": "Dr. Sophie Martin",
+                "citation_count": 740,
+                "affiliation": "Gustave Roussy Institute",
+                "subspecialty": "Immuno-Oncology",
+                "papers_count": 24,
+                "related_authors": [
+                    "Dr. Raj Patel",
+                    "Dr. Mira Das",
+                    "Dr. Jane Smith",
+                    "Dr. Li Zhou",
+                    "Dr. Emily Wong"
+                ],
+                "payments": {
+                    "Amazon": "$12345",
+                    "Facebook": "$12345",
+                    "Google": "$12345",
+                    "Oracle": "$12345",
+                    "Tesla": "$123424"
+                },
+                "published_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Sophie Martin"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Sophie Martin"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Sophie Martin"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Sophie Martin"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Sophie Martin"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            },
+            {
+                "name": "Dr. Raj Patel",
+                "citation_count": 690,
+                "affiliation": "Tata Memorial Centre",
+                "subspecialty": "Biomarkers in Lung Cancer",
+                "papers_count": 18,
+                "related_authors": [
+                    "Dr. Sophie Martin",
+                    "Dr. Mira Das",
+                    "Dr. Jane Smith",
+                    "Dr. Li Zhou",
+                    "Dr. Emily Wong"
+                ],
+                "payments": {
+                    "Amazon": "$12345",
+                    "Facebook": "$12345",
+                    "Google": "$12345",
+                    "Oracle": "$12345",
+                    "Tesla": "$123424"
+                },
+                "published_papers": [
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Raj Patel"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Raj Patel"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Raj Patel"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Raj Patel"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    },
+                    {
+                        "title": "Lung Adenocarcinoma",
+                        "authors": [
+                            "Dr. Raj Patel"
+                        ],
+                        "abstract": "Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations. Analyzes frequency and therapeutic relevance of EGFR mutations.",
+                        "citation_count": 312,
+                        "published_date": "2021-05-20",
+                        "journal": "The Lancet Oncology"
+                    }
+                ]
+            }
+        ],
+        "clinical_trials": [
+            {
+                "title": "A Phase 3 Study of Nivolumab vs Chemotherapy in NSCLC",
+                "phase": "Phase 3",
+                "condition": "Non-Small Cell Lung Cancer",
+                "trial_status": "Recruiting",
+                "source": "https://clinicaltrials.gov/ct2/show/NCT00012345"
+            },
+            {
+                "title": "Atezolizumab + Bevacizumab in Advanced NSCLC",
+                "phase": "Phase 2",
+                "condition": "Lung Cancer",
+                "trial_status": "Completed",
+                "source": "https://clinicaltrials.gov/ct2/show/NCT01234567"
+            },
+            {
+                "title": "Study of Osimertinib in EGFR-Mutant Lung Cancer",
+                "phase": "Phase 3",
+                "condition": "NSCLC",
+                "trial_status": "Active, not recruiting",
+                "source": "https://clinicaltrials.gov/ct2/show/NCT04567890"
+            },
+            {
+                "title": "Pembrolizumab + Chemo in Squamous NSCLC",
+                "phase": "Phase 2",
+                "condition": "Squamous Lung Cancer",
+                "trial_status": "Recruiting",
+                "source": "https://clinicaltrials.gov/ct2/show/NCT00987654"
+            },
+            {
+                "title": "Adjuvant Chemotherapy in Resected Stage II Lung Cancer",
+                "phase": "Phase 3",
+                "condition": "Lung Cancer",
+                "trial_status": "Completed",
+                "source": "https://clinicaltrials.gov/ct2/show/NCT09876543"
+            }
+        ]
+    }
+}

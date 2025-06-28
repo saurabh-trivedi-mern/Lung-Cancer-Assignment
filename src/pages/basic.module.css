@@ -1,0 +1,19 @@
+.boxBody{
+    background-color: #b1dbf8;
+    height: screen;
+    width: screen;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #000000;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  margin: 10px;
+}
+
+.outerBox{
+    display: flex;
+    margin: 20px;
+}

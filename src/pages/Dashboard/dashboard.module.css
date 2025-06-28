@@ -1,0 +1,214 @@
+.outerBox {
+  background-color: #b1dbf8;
+  padding: 0rem 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.navbarBox{
+  min-width: 100vw;
+}
+
+.innerBox {
+  width: screen;
+  /* background-color: #ed1e1e; */
+  padding: 1rem;
+  border-radius: 12px;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+  box-sizing: border-box;
+}
+
+.heading {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #0077b6;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.buttons{
+  text-align: center;
+}
+
+.navButton {
+  background-color: #00b4d8;
+  color: white;
+  font-weight: 500;
+  padding: 0.6rem 1.2rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-right: 1rem;
+  margin-bottom: 1.5rem;
+  transition: background-color 0.2s ease;
+}
+
+.navButton:hover {
+  background-color: #009ac3;
+}
+
+.tabList {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  border-bottom: 2px solid #e0f2ff;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.tabSelected {
+  padding: 0.6rem 1.2rem;
+  background-color: #00b4d8;
+  color: white;
+  font-weight: 600;
+  border-radius: 6px 6px 0 0;
+  cursor: pointer;
+}
+
+.tabUnselected {
+  padding: 0.6rem 1.2rem;
+  background-color: #f0f9ff;
+  color: #0077b6;
+  font-weight: 500;
+  border-radius: 6px 6px 0 0;
+  cursor: pointer;
+  border: 1px solid transparent;
+  border-bottom: none;
+}
+
+.tabUnselected:hover {
+  background-color: #e0f4fc;
+}
+
+/* Panels */
+.tabPanels {
+  background-color: #ffffff;
+  padding: 0.5rem;
+  border-radius: 0 0 12px 12px;
+  border: 1px solid #e0f2ff;
+  border-top: none;
+  box-sizing: border-box;
+}
+
+/* Sorting Controls */
+.sortContainer {
+  /* margin-bottom: 0.5rem; */
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.sortLabel {
+  font-weight: 500;
+  font-size: 0.95rem;
+  color: #333;
+}
+
+.sortSelect {
+  padding: 0.4rem 0.6rem;
+  font-size: 0.9rem;
+  border: 1px solid #bcdff1;
+  border-radius: 6px;
+  background-color: #f9fcff;
+  color: #0077b6;
+  outline: none;
+}
+
+.sortSelect:focus {
+  border-color: #00b4d8;
+}
+
+/* Placeholder Content Area */
+.tabContent {
+  color: #444;
+  font-size: 1rem;
+  margin-top: 1rem;
+  background-color: #ffffff;
+  /* padding: 0.2rem; */
+  border-radius: 8px;
+  border: 1px dashed #c8e9f8;
+}
+
+/* Responsive Design */
+@media (max-width: 1024px) {
+  .innerBox {
+    padding: 1.5rem;
+    max-width: 90%;
+  }
+
+  .heading {
+    font-size: 1.8rem;
+  }
+
+  .tabList {
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .outerBox {
+    padding: 1rem;
+  }
+
+  .innerBox {
+    padding: 1rem;
+    max-width: 100%;
+  }
+
+  .heading {
+    font-size: 1.6rem;
+    text-align: center;
+  }
+
+  .navButton {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+
+  .tabList {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .tabSelected,
+  .tabUnselected {
+    border-radius: 6px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .tabPanels {
+    padding: 1rem;
+  }
+
+  .sortContainer {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+
+  .sortSelect {
+    width: 100%;
+  }
+}
+
+@media (max-width: 480px) {
+  .heading {
+    font-size: 1.4rem;
+  }
+
+  .sortLabel {
+    font-size: 0.9rem;
+  }
+
+  .tabContent {
+    font-size: 0.95rem;
+    padding: 0.75rem;
+  }
+}
